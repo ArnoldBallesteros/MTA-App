@@ -8,4 +8,3 @@
 - [ ] Notifications
 - [ ] Pull to refresh
 - [ ] Progress HUD
-- [ ] 
