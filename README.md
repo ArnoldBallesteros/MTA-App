@@ -1,3 +1,7 @@
+# Group Project - *GO! Transit App*
+
+**Go! Transit App** is a transit app that searches for incoming buses and trains then lets the user know the exact time or other routes of them.
+
 ## User Stories
 
 - [ ] Tabs for the train and the bus
